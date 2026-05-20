@@ -1,3 +1,25 @@
-# Projeto-Agrinhoo
-# Tema do meu projeto  Projeto desenvolvido para o concurso Agrinho.
-<img src="" alt=""><img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/c4992a09-34a1-478e-9311-3b140353cdea" />
+# Projeto Agrinho
+
+Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
+
+## Sobre o projeto
+
+O objetivo do blog é mostrar conteúdos sobre:
+- agricultura,
+- sustentabilidade,
+- natureza,
+- campo e cidade.
+
+## Funcionalidades
+
+- Tema escuro
+- Layout responsivo
+- Cards organizados com Flexbox
+- Efeitos visuais
+- Transições suaves
+
+## Tecnologias usadas
+
+- HTML
+- CSS
+- JavaScript
