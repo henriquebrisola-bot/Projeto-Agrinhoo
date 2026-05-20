@@ -1,12 +1,15 @@
-let curtidas = 0;
-let dislikes = 0;
+function mudaTema() {
 
-function curtir() {
-  curtidas++;
-  document.getElementById("curtidas").innerText = curtidas;
-}
+    const corpoPagina = document.body;
 
-function dislike() {
-  dislikes++;
-  document.getElementById("dislikes").innerText = dislikes;
+    if (corpoPagina.classList.contains("tema-escuro")) {
+
+        corpoPagina.classList.remove("tema-escuro");
+
+    } else {
+
+        corpoPagina.classList.add("tema-escuro");
+
+    }
+
 }
